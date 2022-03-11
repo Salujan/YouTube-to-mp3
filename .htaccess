@@ -1,5 +1,2 @@
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RedirectMatch 301 /en15.html/ /https://www.ytmp3.pro/en17.html/
-</IfModule>
 
+Redirect 301 /en15.html /en15.html
